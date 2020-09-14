@@ -5,7 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/regulardesigner/interview-me.git",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start": "node index.js"
   },
   "author": "Damien Tailhades",
   "license": "GNU GPL-3.0",
